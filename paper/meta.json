@@ -16,6 +16,6 @@
     "benchmark",
     "simulated control ablation"
   ],
-  "code_url": "https://github.com/pooriaarab/benchmark-instruction-hierarchy",
+  "code_url": "https://github.com/itsryanarmani/benchmark-instruction-hierarchy",
   "artifact_name": "instruction-hierarchy-paper.pdf"
 }

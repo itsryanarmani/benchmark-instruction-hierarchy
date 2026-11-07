@@ -86,7 +86,7 @@ export function createBenchmark(options: BenchmarkSourceOptions = {}) {
     {
       name: "Seeded instruction-hierarchy task generator",
       kind: "synthetic",
-      url: "https://github.com/pooriaarab/benchmark-instruction-hierarchy/blob/main/scripts/gen-tasks.mjs",
+      url: "https://github.com/itsryanarmani/benchmark-instruction-hierarchy/blob/main/scripts/gen-tasks.mjs",
       licence: "MIT",
       howToGet: "Run `node scripts/gen-tasks.mjs --seed 20261015` from the repository root. Hidden eval: `node scripts/gen-tasks.mjs --seed <n> --split hidden`.",
       retrievedAt: "2026-10-15T00:00:00.000Z",
@@ -97,7 +97,7 @@ export function createBenchmark(options: BenchmarkSourceOptions = {}) {
     {
       name: "Human-written conflict catalog",
       kind: "human-written",
-      url: "https://github.com/pooriaarab/benchmark-instruction-hierarchy/blob/main/docs/conflict-catalog.md",
+      url: "https://github.com/itsryanarmani/benchmark-instruction-hierarchy/blob/main/docs/conflict-catalog.md",
       licence: "MIT",
       howToGet: "Committed in docs/conflict-catalog.md.",
       retrievedAt: "2026-10-15T00:00:00.000Z",

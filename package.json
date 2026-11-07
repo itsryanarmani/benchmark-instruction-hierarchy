@@ -18,8 +18,8 @@
     "conflicting-instructions"
   ],
   "homepage": "https://private-repo-337e.com/benchmarks/benchmark-instruction-hierarchy",
-  "bugs": "https://github.com/pooriaarab/benchmark-instruction-hierarchy/issues",
-  "repository": { "type": "git", "url": "git+https://github.com/pooriaarab/benchmark-instruction-hierarchy.git" },
+  "bugs": "https://github.com/itsryanarmani/benchmark-instruction-hierarchy/issues",
+  "repository": { "type": "git", "url": "git+https://github.com/itsryanarmani/benchmark-instruction-hierarchy.git" },
   "license": "MIT", "author": "Pooria Arab", "type": "module",
   "main": "./dist/index.js", "types": "./dist/index.d.ts",
   "exports": {
