@@ -3,7 +3,7 @@
   "name": "io.github.pooriaarab/benchmark-instruction-hierarchy",
   "description": "Do your rules survive a long context full of conflicting text?",
   "version": "0.1.0",
-  "repository": { "url": "https://github.com/pooriaarab/benchmark-instruction-hierarchy", "source": "github" },
+  "repository": { "url": "https://github.com/itsryanarmani/benchmark-instruction-hierarchy", "source": "github" },
   "packages": [{
     "registryType": "npm", "registryBaseUrl": "https://registry.npmjs.org", "identifier": "benchmark-instruction-hierarchy", "version": "0.1.0",
     "transport": { "type": "stdio" }, "runtimeHint": "npx",

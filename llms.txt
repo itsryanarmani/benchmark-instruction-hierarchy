@@ -3,7 +3,7 @@
 > Instruction hierarchy: user and system rules vs conflicting documents, quotes, and tool-output injections. Sixty single-turn tasks, deterministic assertion grader.
 
 Package: https://www.npmjs.com/package/benchmark-instruction-hierarchy
-Repository: https://github.com/pooriaarab/benchmark-instruction-hierarchy
+Repository: https://github.com/itsryanarmani/benchmark-instruction-hierarchy
 Directory: https://private-repo-337e.com/benchmarks/benchmark-instruction-hierarchy
 
 ## Exports
